@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# SQL.AG
 
-You can use the [editor on GitHub](https://github.com/soilqualitylab/soilqualitylab.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Soil Quality Laboratory is first of all a knowledge-engineering laboratory ... it's about how people should think about soils, particularly soil ecosystems and the soil LIFE that transformed lifeless substrates into nutrient-dense living powerhouses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LIVING soils are orders of magnitude more productive than DEAD dirt ... just ask the crops that grow in soils with high levels of decayed organic matter, ie look at the GPS yield maps and you can readily find the area that was the pasture or animal yard fifty or even 100 years ago. If you want anything horticultural to really work, eg landscaping or a vegetable garden, you will first need to add large doses of soil organic matter [for a long time] to get the soil quality up to a productive level.
 
-### Markdown
+That's why ****LIFE means carbon**** especially the carbon that is embedded in organic matter such as fungi, some plant roots doing surface ops and maybe a bunch of worms/rodents/grazing herbivores doing digging/mixing ops.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soilqualitylab/soilqualitylab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+... a COMBINATION of quasi-researchey data sciency tools and machine assistants ... starting with an RSS Newsreader ...  an ConnectedPapers-inspired Mycorrhiizal-like soil organic matter graph-in-nator ... a ToDo Checklist Bot for spending more time in the field

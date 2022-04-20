@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Soil Quality Lab
+email: C@sql.ag
+description: Sequester C as LIFE
+twitter_username: sql_ag
+github_username:  soilqualitylab
+
+# Build settings
+markdown: kramdown
