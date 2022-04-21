@@ -7,7 +7,7 @@ permalink: /Listify/
 
 # Listification is HYBRID intelligence
 
-Our commitment to hybrid human-machine intelligences begins with how we curate/annoate simple [HuJSON or JSON With Commas and Comments or JWCC](https://github.com/tailscale/hujson) lists. 
+Our commitment to hybrid human-machine intelligences begins by starting with maintainable code ... this extends to how we curate/annoate simple [HuJSON or JSON With Commas and Comments or JWCC](https://github.com/tailscale/hujson) lists. 
 
 HuJSON allows
 
