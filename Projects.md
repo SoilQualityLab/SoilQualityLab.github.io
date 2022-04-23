@@ -5,6 +5,8 @@ permalink: /Projects/
 ---
 
 
+Carbon sequestration is soil quality.
+
 Developing the earliest of early stage project notetaking is the process of engaging the world by exploring possible business (eg, a self-sustaining ventures with products or grant funding), connections or CRM networking in the world of creative or scientific research or possibly something like different open source venture philantropies.
 
 # Listing of projects
