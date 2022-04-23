@@ -5,7 +5,7 @@ permalink: /Reading/
 ---
 
 
-We mostly read as a break from work ... but we try to speedread *with serious, critical intention.* 
+We mostly read as a break from work ... or, more correctly, a temporary change in direction... but we try to speedread *with serious, critical intention.* 
 
 # Reading Lists
 
