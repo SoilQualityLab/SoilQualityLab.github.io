@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Executable List APIs are smarter RNNs"
-date:   2022-01-01 4:30:00
+title:  "Learning From Soil: Executable List APIs are smarter RNNs"
+date:   2024-07-01 4:30:00
 categories: template
 ---
 
