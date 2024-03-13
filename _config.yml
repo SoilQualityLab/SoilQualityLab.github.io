@@ -1,9 +1,9 @@
 # Site settings
-title: Soil Quality Lab
+title: SoilQualityLab
 email: C@sql.ag
 description: Sequester C as LIFE
-twitter_username: sql_ag
-github_username:  soilqualitylab
+twitter_username: SQL_ag
+github_username:  SoilQualityLab
 
 # Build settings
 markdown: kramdown
